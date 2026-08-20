@@ -1,0 +1,8 @@
+.workbuddy/
+tmp_extracted_questions.json
+__pycache__/
+tools/__pycache__/
+.DS_Store
+Thumbs.db
+*.log
+*.xlsx
